@@ -1,161 +1,191 @@
-# Hi, I'm Apurva Kumar 👋
+<div align="center">
 
-### Embedded Systems Engineer · Automotive AI/ADAS · Computer Architecture · Sensor Systems · Edge AI
+<!-- Custom banner — commit banner.png to /assets/banner.png in this repo, this path is relative and renders straight from your repo. -->
+<img src="./assets/banner.png" width="100%"/>
 
-I build intelligent systems at the intersection of **embedded hardware, software, sensing, simulation, and AI**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Sensors+%E2%86%92+Firmware+%E2%86%92+Simulation+%E2%86%92+AI;Building+intelligent+systems+at+the+edge;Exploring+ADAS+%2B+edge+intelligence" alt="typing animation" />
 
-My work spans embedded systems, automotive technologies, computer architecture, intelligent sensing, machine learning, and simulation-driven engineering.
+<br/>
 
-🌐 **[Portfolio](https://apurvakumar55.vercel.app/)** ·
-💼 **[LinkedIn]((https://www.linkedin.com/in/ apurvakumar55)** ·
-📧 **[Email](mailto:apurvak916@gmail.com)**
+<!-- Portfolio link: swap to https://apurvakumar.me once the custom domain is verified -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://apurvakumar55.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurvakumar55)
+[![Email](https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvak916@gmail.com)
 
----
+</div>
 
-## 🔬 Engineering Focus
+<br/>
 
-| Domain | Focus |
+## About
+
+Embedded Systems Engineer working across the hardware–software boundary — from sensors and firmware to simulation, computer architecture, and AI-driven systems.
+
+Interested in systems where sensing, computation, and real-time decisions come together, particularly in automotive and edge-AI applications.
+
+<br/>
+
+<div align="center">
+
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Linux](https://skillicons.dev/icons?i=linux) ![Arduino](https://skillicons.dev/icons?i=arduino) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![MySQL](https://skillicons.dev/icons?i=mysql) &nbsp;·&nbsp; ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite)
+
+</div>
+
+<br/>
+
+## Selected Projects
+
+<sub>click a project to inspect the engineering details</sub>
+
+<details>
+<summary><b>AUTERA</b> — India-calibrated ADAS framework for heavy commercial vehicles</summary>
+<br/>
+
+India-calibrated ADAS framework for heavy commercial vehicles operating in heterogeneous urban traffic.
+
+| | |
 |---|---|
-| **Embedded Systems** | Sensors, microcontrollers, hardware–software integration |
-| **Automotive / ADAS** | Perception, sensor fusion, validation, intelligent vehicles |
-| **Computer Architecture** | Memory hierarchy, NoC, architectural simulation |
-| **AI / ML** | Deep learning, intelligent systems, Edge AI |
-| **Sensor Systems** | Gas sensing, signal acquisition, sensor data processing |
-| **Simulation** | CARLA, gem5, simulation-driven validation |
-| **Database Systems** | SQL, relational modelling, DBMS applications |
+| **Target** | Heavy commercial vehicles, mixed urban traffic |
+| **Context** | India-calibrated traffic and road conditions |
+| **Subsystems** | Perception, sensor fusion, validation pipeline |
+| **Tags** | `ADAS` `Automotive` `Perception` `Sensor Fusion` `Simulation` |
 
----
+**[→ View repository](https://github.com/Apurva-0210/Autera)**
 
-## 🚀 Featured Engineering Work
+</details>
 
-### 🚗 AUTERA
+<details>
+<summary><b>AGNIS</b> — Advanced Gas Sensing Nanocomposite System</summary>
+<br/>
 
-**India-Calibrated ADAS Framework for Heavy Commercial Vehicles**
+ESP32-based acquisition with a nanocomposite-functionalised gas sensing element.
 
-A research-oriented ADAS framework focused on heavy commercial vehicles operating in heterogeneous urban traffic environments.
+| | |
+|---|---|
+| **Platform** | ESP32-based data acquisition |
+| **Sensor** | MiCS-4514 gas sensing |
+| **Material** | Nanocomposite functionalisation |
+| **Pipeline** | Sensing → acquisition → signal processing |
+| **Tags** | `Embedded Systems` `Sensors` `ESP32` `Signal Processing` |
 
-**Focus:** `ADAS` `Automotive` `Perception` `Sensor Fusion` `Simulation` `Validation`
+**[→ View repository](https://github.com/Apurva-0210/AGNIS-gas-sensing-project)**
 
-→ **[View Repository](https://github.com/Apurva-0210/Autera)**
+</details>
 
----
+<details>
+<summary><b>gem5-Memory-NoC-Analysis</b> — Computer architecture performance study</summary>
+<br/>
 
-### 🧪 AGNIS
+Performance and architectural trade-off analysis using gem5.
 
-**Advanced Gas Sensing Nanocomposite System**
+| | |
+|---|---|
+| **Toolchain** | gem5 |
+| **Evaluated** | Cache hierarchy, memory behaviour, Garnet NoC |
+| **Analysis** | Performance and architectural trade-offs |
+| **Tags** | `Computer Architecture` `Memory Systems` `NoC` |
 
-A sensor-focused research project involving nanocomposite-functionalised gas sensing with ESP32-based data acquisition.
+**[→ View repository](https://github.com/Apurva-0210/Gem5-Memory-NoC-Analysis)**
 
-**Focus:** `Embedded Systems` `Sensors` `ESP32` `Gas Sensing` `Signal Processing`
+</details>
 
-→ **[View Repository](https://github.com/Apurva-0210/AGNIS-gas-sensing-project)**
+<details>
+<summary><b>ISDV-Net</b> — Intelligent Speed Detection & Vehicle Reasoning</summary>
+<br/>
 
----
+Attention-augmented deep learning for speed-sign detection and temporal reasoning.
 
-### 🖥️ gem5 Memory & NoC Analysis
+| | |
+|---|---|
+| **Approach** | Attention-augmented deep learning |
+| **Pipeline** | Speed-sign detection → temporal reasoning |
+| **Objective** | Intelligent speed-awareness and vehicle decision support |
+| **Tags** | `Deep Learning` `Computer Vision` `Traffic Systems` |
 
-**Computer Architecture Performance Analysis**
+**[→ View repository](https://github.com/Apurva-0210/ISDV_NET)**
 
-Performance analysis of memory hierarchy and Network-on-Chip architectures using gem5, including cache analysis and Garnet NoC evaluation.
+</details>
 
-**Focus:** `Computer Architecture` `gem5` `Memory Systems` `NoC` `Performance Analysis`
+<details>
+<summary><b>FleetEase</b> — Fleet & Vehicle Booking Management System</summary>
+<br/>
 
-→ **[View Repository](https://github.com/Apurva-0210/Gem5-Memory-NoC-Analysis)**
+A DBMS project covering relational data modelling, SQL operations, and vehicle booking workflows.
 
----
+| | |
+|---|---|
+| **Layer** | DBMS project |
+| **Scope** | Relational data modelling, SQL operations, booking workflows |
+| **Tags** | `DBMS` `SQL` `Database Design` |
 
-### 🤖 ISDV-Net
+**[→ View repository](https://github.com/Apurva-0210/FleetEase)**
 
-**Intelligent Speed Detection & Vehicle Reasoning**
+</details>
 
-An attention-augmented deep learning framework for Indian highway speed-sign detection, temporal reasoning, and closed-loop vehicle speed governance.
+<br/>
 
-**Focus:** `Deep Learning` `Computer Vision` `AI` `Traffic Systems`
+## `>_` open ~/portfolio
 
-→ **[View Repository](https://github.com/Apurva-0210/ISDV_NET)**
+<div align="center">
 
----
+<!-- Swap to https://apurvakumar.me once the custom domain is verified -->
 
-### 🚛 FleetEase
+### [apurvakumar55.vercel.app →](https://apurvakumar55.vercel.app/)
 
-**Fleet & Vehicle Booking Management System**
+Projects · Research · Experience · Resume · Contact
 
-A database-driven fleet management and vehicle booking system developed as a **DBMS project**, focusing on relational data modelling, SQL operations, and booking workflows.
+</div>
 
-**Focus:** `DBMS` `SQL` `Database Design` `Relational Databases`
+<br/>
 
-→ **[View Repository](https://github.com/Apurva-0210/FleetEase)**
+## `>_` ps --current
 
----
+```text
+[ACTIVE]  Automotive perception & ADAS validation
+[ACTIVE]  Embedded AI / edge intelligence
+[ACTIVE]  Computer architecture & simulation
+[ACTIVE]  Sensor-driven intelligent systems
+```
 
-## 🛠️ Technical Stack
+<br/>
 
-### Languages
+## GitHub Activity
 
-`C` `C++` `Python` `SQL` `JavaScript` `TypeScript`
+<div align="center">
 
-### Embedded & Systems
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Apurva-0210&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-0210&layout=compact&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=c9d1d9&border_radius=10" />
 
-`Embedded Systems` `Microcontrollers` `Sensors` `Linux` `Computer Architecture`
+<br/>
 
-### AI / ML
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva-0210&hide_border=true&background=0d1117&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakLabel=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
 
-`Machine Learning` `Deep Learning` `Computer Vision` `Edge AI`
+<br/><br/>
 
-### Automotive & Simulation
+<img src="https://github-profile-trophy.vercel.app/?username=Apurva-0210&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8&title=Stars,Commits,Repositories,Followers" />
 
-`ADAS` `Automotive Electronics` `Sensor Fusion` `CARLA` `RoadRunner` `gem5`
+<!--
+  Optional: animated contribution snake.
+  1. Add the file .github/workflows/snake.yml from this delivery to your profile repo.
+  2. It runs on a schedule and commits github-contribution-grid-snake.svg to the "output" branch.
+  3. Then this line will render an animated snake eating your contribution graph.
+-->
+<!-- <img src="https://raw.githubusercontent.com/Apurva-0210/Apurva-0210/output/github-contribution-grid-snake.svg" width="100%"/> -->
 
-### Development
+</div>
 
-`Git` `GitHub` `React` `Vite` `REST APIs` `Testing`
+<br/>
 
----
+<div align="center">
 
-## 🧭 Engineering Interests
+Open to collaborations in embedded systems, automotive intelligence, computer architecture, and applied AI research.
 
-I'm particularly interested in engineering problems involving:
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F81F7?style=flat-square&logo=vercel&logoColor=white)](https://apurvakumar55.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurvakumar55)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Apurva-0210)
+[![Email](https://img.shields.io/badge/Email-2F81F7?style=flat-square&logo=gmail&logoColor=white)](mailto:apurvak916@gmail.com)
 
-- Embedded intelligence and Edge AI
-- Automotive perception and ADAS
-- Sensor-driven systems
-- Computer architecture and performance
-- Simulation-based system development
-- Hardware–software co-design
-- Intelligent transportation systems
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Apurva-0210&color=2F81F7&style=flat-square&label=profile+views)
 
-## 🌐 Explore My Portfolio
-
-### **[apurvakumar.me →](https://apurvakumar.me)**
-
-**Projects · Research · Experience · Resume · Contact**
-
-My portfolio provides a broader view of my engineering work, research interests, projects, and experience.
-
----
-
-## 📌 Selected Repositories
-
-| Project | Area | Repository |
-|---|---|---|
-| **AUTERA** | Automotive / ADAS | [View](https://github.com/Apurva-0210/Autera) |
-| **AGNIS** | Embedded / Sensors | [View](https://github.com/Apurva-0210/AGNIS-gas-sensing-project) |
-| **gem5 Analysis** | Computer Architecture | [View](https://github.com/Apurva-0210/Gem5-Memory-NoC-Analysis) |
-| **ISDV-Net** | AI / Computer Vision | [View](https://github.com/Apurva-0210/ISDV_NET) |
-| **FleetEase** | DBMS | [View](https://github.com/Apurva-0210/FleetEase) |
-
----
-
-## 🤝 Let's Connect
-
-I'm open to opportunities and collaborations involving **embedded systems, automotive technologies, intelligent systems, computer architecture, and engineering research**.
-
-🌐 **[Portfolio](https://apurvakumar55.vercel.app/)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/ apurvakumar55)**  
-💻 **[GitHub](https://github.com/Apurva-0210)**
-
----
-
-> **Building intelligent systems at the edge.**
+</div>

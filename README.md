@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Custom banner — commit banner.png to /assets/banner.png in this repo, this path is relative and renders straight from your repo. -->
+<!-- Custom banner — commit banner.png to banner.png in this repo, this path is relative and renders straight from your repo. -->
 <img src="./assets/banner.png" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Sensors+%E2%86%92+Firmware+%E2%86%92+Simulation+%E2%86%92+AI;Building+intelligent+systems+at+the+edge;Exploring+ADAS+%2B+edge+intelligence" alt="typing animation" />
